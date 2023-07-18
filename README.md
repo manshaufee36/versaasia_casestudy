@@ -17,4 +17,4 @@ I've attached the JAVA file and together with the JSON output file on the Big Ba
 8) And the object will be saved into "output.json" using FileWriter libraries.
 9) Both creation of JSON object and I/O has their exception of catch.
 
-After all this is quite a good and simple challenge for me to be taken on. Indeed a great experience to be part of the candidates on taking this challenge. After all, thank you for giving me out the opportunity on going through the Internship placement process.
+After all this is a good challenge and experience for me to be taken on. Indeed, its a great experience to be part of the candidates on taking this challenge. After all, thank you for giving me out the opportunity on going through the Internship placement process. Thanks a bunch !
